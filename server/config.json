@@ -1,0 +1,9 @@
+{
+            "user": "sa",
+            "password": "reallyStrongPwd123",
+            "server": "localhost",
+            "database": "Mallik",
+            "connectionLimit": 15,
+            "queueLimit": 30,
+            "acquireTimeout": 1000000
+}
